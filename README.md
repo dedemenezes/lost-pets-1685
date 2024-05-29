@@ -1,24 +1,15 @@
-# README
+1. As an user I can See all the pets
+2. As an user I can See details about one pet
+3. As an user I can Add a pet found on the street
+4. As an user I can Update a pet
+5. As an user I can delete a pet
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## DATA BRICK
+1. generate the model Pet
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##  APP BRICK
+1. route
+2. controller action
+3. view
