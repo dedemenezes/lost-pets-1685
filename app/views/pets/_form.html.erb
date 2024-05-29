@@ -2,7 +2,7 @@
   <%= f.input :name %>
   <%= f.input :address %>
   <%= f.input :found_on %>
-  <%= f.input :species, collection: [1,2,3]%>
+  <%= f.input :species, collection: Pet::SPECIES %>
 
   <%#= f.label :name %>
   <%#= f.text_field :name %>
